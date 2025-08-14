@@ -18,7 +18,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/saadmprog/s.moros.f.git
 cd s.moros.f
-python3 s.moros.f.py
+python3 s.moros.e.f.py
 ```
 ## 🚀 Usage
 
