@@ -1,6 +1,6 @@
 # 🔐 Moros Encryption Tool
 
-A lightweight and secure tool for encrypting and decrypting files and text using the **S.MOROS.F**.
+A lightweight and secure tool for encrypting and decrypting files and text using the **S.MOROS.E.D**.
 
 ![Tool Image](Tool%20image.png)
 
