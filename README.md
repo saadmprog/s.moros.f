@@ -18,4 +18,31 @@ git clone https://github.com/saadmprog/s.moros.f.git
 cd s.moros.f
 python3 s.moros.f.py
 ```
+## 🚀 Usage
 
+to encrypt text use: 
+```bash
+encrypt text
+Enter Original text: 
+```
+
+
+to decrypt text use: 
+```bash
+decrypt text
+Enter Encrypted text: 
+```
+
+
+to encrypt file use: 
+```bash
+encrypt file
+Enter Original File path: 
+```
+
+
+to decrypt file use: 
+```bash
+decrypt file
+Enter Encrypted file path:  
+```
