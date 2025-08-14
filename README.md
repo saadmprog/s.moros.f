@@ -46,3 +46,7 @@ to decrypt file use:
 decrypt file
 Enter Encrypted file path:  
 ```
+
+## 📫 Contact
+
+Created by Saad M. — feel free to reach out via saadm.prog@proton.me or saadmprog@atomicmail.io
