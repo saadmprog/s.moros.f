@@ -2,7 +2,7 @@
 
 A lightweight and secure tool for encrypting and decrypting files and text using the **S.MOROS.F**.
 
-![Tool Logo]("Tool image.png")
+![Tool Image](Tool%20image.png)
 
 ## ✨ Features
 
