@@ -1,6 +1,8 @@
 # 🔐 Moros Encryption Tool
 
-A lightweight and secure tool for encrypting and decrypting files and text using the **Moros encryption algorithm**.
+A lightweight and secure tool for encrypting and decrypting files and text using the **S.MOROS.F**.
+
+![Tool Logo]("Tool image.png")
 
 ## ✨ Features
 
@@ -25,22 +27,16 @@ to encrypt text use:
 encrypt text
 Enter Original text: 
 ```
-
-
 to decrypt text use: 
 ```bash
 decrypt text
 Enter Encrypted text: 
 ```
-
-
 to encrypt file use: 
 ```bash
 encrypt file
 Enter Original File path: 
 ```
-
-
 to decrypt file use: 
 ```bash
 decrypt file
